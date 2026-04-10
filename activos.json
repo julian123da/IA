@@ -1,0 +1,16 @@
+{
+    "activos": [],
+    "catalogos": {
+        "categorias": {
+            "1": "Laptops",
+            "2": "Monitores",
+            "3": "Teclados"
+        },
+        "marcas": {
+            "1": "Dell",
+            "2": "HP",
+            "3": "Lenovo",
+            "4": "Asus"
+        }
+    }
+}
